@@ -9,7 +9,7 @@ var mc = new Hammer(myCanvas);
 
 var questionSpreadId = "17d_7voIrfm9ha8dpkdk4M7ksw7_ce_loQ5QVUmW-nlw"
 //var submit_url_base = "http://127.0.0.1:5000/submit"
-var submit_url_base = "http://rajk.uni-corvinus.hu:5675/submit"
+var submit_url_base = "https://rajk.uni-corvinus.hu:5675/submit"
 
 var params
 var url
